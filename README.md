@@ -22,8 +22,8 @@ This project provides an **AI-powered SEO content rewriting tool** that extracts
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Abarnarajj/SEO-content-Rewritter-neural-Coders.git
-cd SEO-content-Rewritter-neural-Coders
+git clone https://github.com/abinaya-p/content-rewritter.git
+cd content-rewritter
 ```
 
 ### 2. Install dependencies:
